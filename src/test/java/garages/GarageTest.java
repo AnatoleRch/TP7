@@ -70,7 +70,7 @@ public class GarageTest {
 			// Si on arrive ici, il y a eu une exception, c'est ce qui est attendu
 		}
 	}
-
+     
 	@Test
 	public void pasDeDoubleEntree() throws Exception {
 		// Given: une voiture après initialisation
